@@ -13,4 +13,3 @@ Tablero Kanban: [PennylessTrack - Kanban](https://github.com/users/JoshuaIliffe1
 
 ## Seguridad
 Los commits de este repositorio están firmados con GPG.
-Prueba de push directo a main
