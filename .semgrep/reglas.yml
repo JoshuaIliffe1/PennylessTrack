@@ -1,0 +1,6 @@
+rules:
+  - id: no-eval
+    pattern: eval(...)
+    message: "No uses eval(): ejecuta cualquier código que le pasen y permite inyección de código."
+    languages: [python]
+    severity: ERROR
