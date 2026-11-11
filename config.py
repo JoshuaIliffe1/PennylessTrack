@@ -1,0 +1,3 @@
+# Archivo de prueba con credenciales simuladas
+AWS_ACCESS_KEY_ID = "AKIAEXAMPLEKEY123456"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
